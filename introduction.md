@@ -1,12 +1,12 @@
-# minirefresh
+# page-refresh
 
 [![](https://img.shields.io/badge/codestyle-eslint-brightgreen.svg)](https://eslint.org/)
-[![](https://img.shields.io/circleci/project/minirefresh/minirefresh/master.svg)](https://circleci.com/gh/minirefresh/minirefresh/tree/master)
-[![](https://img.shields.io/codecov/c/github/minirefresh/minirefresh/master.svg)](https://codecov.io/github/minirefresh/minirefresh?branch=master)
-[![](https://img.shields.io/npm/dm/minirefresh.svg)](https://www.npmjs.com/package/minirefresh)
-[![](https://img.shields.io/npm/v/minirefresh.svg)](https://www.npmjs.com/package/minirefresh)
-[![](https://img.shields.io/npm/l/minirefresh.svg)](https://www.npmjs.com/package/minirefresh)
-[![](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/minirefreshjs/minirefresh)
+[![](https://img.shields.io/circleci/project/page-refresh/page-refresh/master.svg)](https://circleci.com/gh/page-refresh/page-refresh/tree/master)
+[![](https://img.shields.io/codecov/c/github/page-refresh/page-refresh/master.svg)](https://codecov.io/github/page-refresh/page-refresh?branch=master)
+[![](https://img.shields.io/npm/dm/page-refresh.svg)](https://www.npmjs.com/package/page-refresh)
+[![](https://img.shields.io/npm/v/page-refresh.svg)](https://www.npmjs.com/package/page-refresh)
+[![](https://img.shields.io/npm/l/page-refresh.svg)](https://www.npmjs.com/package/page-refresh)
+[![](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/minirefreshjs/page-refresh)
 
 [![](https://saucelabs.com/browser-matrix/minirefreshs.svg)](https://saucelabs.com/beta/builds/62749d602ec849809265f00ba5259eae)
 
@@ -36,4 +36,4 @@ __喜欢，你就给一个star!__
 
 ## 官网
 
-[https://minirefresh.github.io/](https://minirefresh.github.io/)
+[https://page-refresh.github.io/](https://page-refresh.github.io/)
